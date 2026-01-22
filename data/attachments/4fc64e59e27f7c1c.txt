@@ -1,0 +1,1 @@
+Error: ENOENT: no such file or directory, open 'F:\Project\appium-payconnect-master\test\screenshots\Screenshot_VT_003_1.png'
