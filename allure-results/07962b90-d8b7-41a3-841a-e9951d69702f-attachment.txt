@@ -1,5 +1,0 @@
-TypeError: Cannot read properties of undefined (reading 'id')
-    at Object.fetchTerminalCurrentBatch (file:///F:/Project/appium-payconnect-master/helpers/query.js:121:25)
-    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
-    at async file:///F:/Project/appium-payconnect-master/test/specs/app-settings/PS_011.e2e.js?invalidateCache=0.33832891375014085:34:28
-    at async file:///F:/Project/appium-payconnect-master/helpers/customSteps.js:16:24
